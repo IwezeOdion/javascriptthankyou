@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:46:05	2873/2873	---MCZ	200	added ('OK')	text/html	etag:W/%220a84464c301132e2e3740f21a363bce2%22	https://portfolio-iota-wheat-10.vercel.app/thankyou.html	C:/Users/Odion/Desktop/javascriptthankyou/portfolio-iota-wheat-10.vercel.app/thankyou.html	(from )
+03:46:05	1474/1474	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2017%20Aug%202023%2002:46:05%20GMT	https://portfolio-iota-wheat-10.vercel.app/robots.txt		(from )
+03:46:07	3670/3670	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2017%20Aug%202023%2002:46:07%20GMT	https://portfolio-iota-wheat-10.vercel.app/images/favicon.png	C:/Users/Odion/Desktop/javascriptthankyou/portfolio-iota-wheat-10.vercel.app/images/favicon.png	(from https://portfolio-iota-wheat-10.vercel.app/thankyou.html)
